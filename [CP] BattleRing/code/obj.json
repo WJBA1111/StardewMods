@@ -1,0 +1,39 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                "{{ModId}}_bigring": {
+                    "Name": "Big Ring",
+                    "DisplayName": "{{i18n:lyl.br.cp.ring.bigring.name}}",
+                    "Description": "{{i18n:lyl.br.cp.ring.bigring.desc}}",
+                    "Type": "Ring",
+                    "Category": 0,
+                    "Price": 2000,
+                    "Texture": "Mods/{{ModId}}/ring/bigring",
+                    "SpriteIndex": 0,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Buffs": null,
+                    "GeodeDropsDefaultItems": false,
+                    "GeodeDrops": null,
+                    "ArtifactSpotChances": null,
+                    "ExcludeFromFishingCollection": false,
+                    "ExcludeFromShippingCollection": false,
+                    "ExcludeFromRandomSale": false,
+                    "ContextTags": [
+                        "color_gold",
+                        "ring_item"
+                    ],
+                    "CustomFields": null
+                }
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/ring/bigring",
+            "FromFile": "assets/bigring.png"
+        }
+    ]
+}

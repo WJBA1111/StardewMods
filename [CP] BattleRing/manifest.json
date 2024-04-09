@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] BattleRing",
+    "Author": "lyl",
+    "Version": "1.0.0",
+    "Description": "战斗戒指",
+    "UniqueID": "lyl.br.cp",
+    "UpdateKeys": [], 
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
