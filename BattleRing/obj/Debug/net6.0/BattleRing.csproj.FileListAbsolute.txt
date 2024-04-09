@@ -1,0 +1,16 @@
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\bin\Debug\net6.0\BattleRing.deps.json
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\bin\Debug\net6.0\BattleRing.dll
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.csproj.AssemblyReference.cache
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.AssemblyInfoInputs.cache
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.AssemblyInfo.cs
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.csproj.CoreCompileInputs.cache
+D:\Environment\VS Code Project\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.dll
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\bin\Debug\net6.0\BattleRing.deps.json
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\bin\Debug\net6.0\BattleRing.dll
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.csproj.AssemblyReference.cache
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.AssemblyInfoInputs.cache
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.AssemblyInfo.cs
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.csproj.CoreCompileInputs.cache
+D:\Environment\VSCodeProject\StardewMods\ModTest2\BattleRing\obj\Debug\net6.0\BattleRing.dll

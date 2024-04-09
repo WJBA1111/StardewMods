@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/9wHp40nnKv3KjIdfjfGuxIrEmviBb2sougRyoS6LQpAobZvtYG3LbZs68FnkFCXzbqTsB79q4hfAFAYJzGmA==",
+  "success": true,
+  "projectFilePath": "D:\\Environment\\VSCodeProject\\StardewMods\\ModTest2\\BattleRing\\BattleRing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LYL\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
+    "C:\\Users\\LYL\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512",
+    "C:\\Users\\LYL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\LYL\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\LYL\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512",
+    "C:\\Users\\LYL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LYL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LYL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
